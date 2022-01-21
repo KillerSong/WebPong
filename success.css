@@ -1,0 +1,106 @@
+.MENUBAR{
+    position:relative;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.box1{
+    width: 877px;  
+    height: 59px; 
+    left:282px ;
+    top: 150px; 
+    background-color: #6E7379 ;
+    padding: 20px; 
+    margin:0 auto; 
+    margin-top: 50px;
+}
+.box2{
+    width: 877px; 
+    height: 170px; 
+    left:282px ;
+    top: 1014px;
+    background-color:#394048;
+    color :white ;
+    padding:20px; 
+    margin:0 auto;
+}
+.box3{
+    /* Rectangle 131 */
+    width: 877px;
+    height: 420px;
+    left: 282px;
+    top: 598.32px;
+    background: #394048;
+    color: white;
+    padding: 20px; 
+    margin:0 auto; 
+    
+}
+
+.box4{
+    /* Rectangle 131 */
+    width: 877px;
+    height: 400px;
+    left: 282px;
+    top: 1014px;
+    background: #394048;
+    color: white;
+    padding: 20px; 
+    margin:0 auto; 
+
+}
+
+.box5{
+    /* Rectangle 105 */
+    width: 877px;
+    height: 112px;
+    left: 282px ;
+    top: 1533px;
+    background: #394048;
+    color: white;
+    padding: 20px; 
+    margin:0 auto;  
+}
+.box6{
+    width: 877px;  
+    height: 59px; 
+    left:282px ;
+    top: 150px; 
+    background-color: #FF0808 ;
+    padding: 20px; 
+    margin:0 auto; 
+    margin-top: 50px;
+}
+.p2{
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 10px;
+    color: #FFFFFF;
+    text-indent: 60px;
+}
+
+
+.p3{
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.p4{
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 10px;
+    color: #FFFFFF;
+    text-indent: 60px;
+}

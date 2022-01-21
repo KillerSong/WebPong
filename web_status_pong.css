@@ -1,0 +1,69 @@
+.MENUBAR{
+    position:relative;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.IDCARD{
+    position:relative;
+    top : -30px;
+    left: 0px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.BOX{
+    position: relative;
+    width: 575px;
+    height: 115px;
+    left: 480px;
+    top: -25px; 
+    background: #394048;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+.FONTNAME{
+    position: relative;
+    top: 20px;
+    left:-190px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.DATETIME{
+    position: relative;
+    top: -47px;
+    left:220px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.SEX_AGE{
+    position: relative;
+    top: -120px;
+    left:-190px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}

@@ -1,0 +1,270 @@
+.MENUBAR{
+    position:relative;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.TEXTSTATUSS{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 127px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTISOLUTION{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 172px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTIDCARD{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 217px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTFIRSTNAME{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 262px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTLASTNAME{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 307px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTAGE{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 352px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTSEX{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 397px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTHOUSENUMBER{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 442px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTVILLAGENAME{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 487px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.TEXTVILLAGENUMBER{
+    position: absolute;
+    width: 140px;
+    height: 20px;
+    left: 180px;
+    top: 532px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+.Font_statuss{
+    position:relative;
+    top : 20px;
+    left: 110px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_isolution{
+    position:relative;
+    top : 0px;
+    left: 65px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_idcard{
+    position:relative;
+    top : -20px;
+    left: -50px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_firstname{
+    position:relative;
+    top : -40px;
+    left: 140px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_lastname{
+    position:relative;
+    top : -60px;
+    left: 95px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_age{
+    position:relative;
+    top : -80px;
+    left: 130px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_sex{
+    position:relative;
+    top : -100px;
+    left: 131px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_housenumber{
+    position:relative;
+    top : -120px;
+    left: 87px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_villagenumber{
+    position:relative;
+    top : -140px;
+    left: 104px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Font_villagename{
+    position:relative;
+    top : -160px;
+    left: 82px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}

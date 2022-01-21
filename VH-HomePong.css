@@ -1,0 +1,199 @@
+.MENUBAR{
+    position:relative;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.TOPMID{
+    position:relative;
+    left: 20px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.style1{
+    position:relative;
+    left: 20px;
+    top: -40px;
+    border:0.5px solid black;
+}
+.DAY{
+    position:relative;
+    left: 40px;
+    top:-55px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    color: #000000;
+}
+.BOXPOSITIVE{
+    position: relative;
+    width: 492px;
+    height: 250px;
+    left: -210px;
+    top: -80px;
+    background: #ED1B24;
+    border-radius: 5px;
+
+}
+.BOXPOSITIVE_ALL{
+    position: absolute;
+    width: 492px;
+    height: 171px;
+    left: -210px;
+    top: 580px;
+
+    background: #C01422;
+    border-radius: 5px;
+
+}
+.BOXDIED{
+    position: absolute;
+    width: 492px;
+    height: 215px;
+    left: 305px;
+    top: 342px;
+
+    background: #2F363E;
+    border-radius: 5px;
+
+}
+.BOXRECOVERED{
+    position: absolute;
+    width: 492px;
+    height: 169px;
+    left: 305px;
+    top: 580px;
+    background: #00A652;
+    border-radius: 5px;
+}
+.TEXTPOSITIVE{
+    position: relative;
+    top: 30px;
+    left:-100px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTPOSITIVE_NUMBAER{
+    position: relative;
+    top: 60px;
+    left: 140px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTDIED{
+    position: relative;
+    top: -10px;
+    left:-140px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTPOSITIVE_NUMBAER1{
+    position: relative;
+    top: -40px;
+    left: 140px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTPOSITIVE_NUMBAER2{
+    position: relative;
+    top: -160px;
+    left: 128px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTPOSITIVE_ALL{
+    position: relative;
+    top: -10px;
+    left:-100px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTPOSITIVE_ALL_NUMBAER{
+    position: relative;
+    top: -40px;
+    left: 150px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTRECOVERED{
+    position: relative;
+    top: -10px;
+    left:-75px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTRECOVERED_NUMBER1{
+    position: relative;
+    top: -80px;
+    left: 140px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.TEXTRECOVERED_NUMBER2{
+    position: relative;
+    top: -200px;
+    left: 128px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}

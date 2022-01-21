@@ -1,0 +1,154 @@
+.MENUBAR{
+    position:relative;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.statuss{
+    position:relative;
+    top : 0px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.DATE{
+    position:relative;
+    top : -15px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.isolution{
+    position:relative;
+    top : -30px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.IDCARD{
+    position:relative;
+    top : -45px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.FIRSTNAME{
+    position:relative;
+    top : -60px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.LASTNAME{
+    position:relative;
+    top : -75px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.BIRTHDATE{
+    position:relative;
+    top : -90px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.SEX{
+    position:relative;
+    top : -105px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.House_number{
+    position:relative;
+    top : -120px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Village_House{
+    position:relative;
+    top : -135px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.Village_number{
+    position:relative;
+    top : -150px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
+.add_form_button{
+    position:relative;
+    top : -165px;
+    left: 175px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    
+}
